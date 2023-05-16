@@ -1,5 +1,6 @@
 # Hey 👋
 My name is Guilherme Garcia 😄
+
 This profile has all the repositories I'm working on it, feel free to check it out and see what I'm studying/working.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
