@@ -1,5 +1,6 @@
 # Hey 👋
 My name is Guilherme Garcia 😄
+This profile has all the repositories I'm working on it, feel free to check it out and see what I'm studying/working.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 ##### Reach me out 👇🏼
@@ -10,7 +11,3 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - 📚 Graduating, currently at 6th semester on FIAP, São Paulo
 - ✨Born in Brazil, São Paulo
 - 📱 Studying Software development for mobile applications with Kotlin and Flutter
-
-![GuilhermeStatus](https://github-readme-stats.vercel.app/api?username=guiGarcia42)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiGarcia42)
