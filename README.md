@@ -24,5 +24,5 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
  <a href="https://github.com/guiGarcia42">
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guiGarcia42&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiGarcia42&layout=compact&langs_count=7&theme=onedark"/>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guiGarcia42&show_icons=true&theme=onedark&count_private=true"/>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiGarcia42&layout=compact&langs_count=6&theme=onedark"/>
