@@ -11,7 +11,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 #### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 - 📚 Graduating, currently at 6th semester on FIAP, São Paulo
 - ✨Born in Brazil, São Paulo
-- 📱 Studying Software development for mobile applications with Kotlin and Flutter
+- 📱 Studying Software development for mobile applications with Kotlin, Swift and Flutter
 
 ### Skills :dart:
 
